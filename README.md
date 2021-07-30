@@ -10,7 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 # Welcome!
 
-Hello and welcome to my personal GitHub. I'm currently exploring:
+Hello, welcome to my personal GitHub! 
+
+I'm currently exploring:
 - Machine Learning algorithms and techniques
   -   e.g. regression, classification, clustering, neural nets, Random Forest, Decision Trees, KNeighbors, Keras / Tensorflow
   -   e.g. gridsearching to tune parameters, dimensionality reduction techniques, time series analyses
