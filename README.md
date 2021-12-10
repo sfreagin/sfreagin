@@ -19,6 +19,6 @@ I'm currently exploring:
 - Quantum computing libraries
   - e.g. Qiskit, Cirq, pyquil (soon)
 
-My education background is **Applied Math** and **Physics**, mostly quantum and statistical mechanics (shout-out to the Boltzmann Brains)
+My education background is **Applied Math** and **Physics**, including quantum and statistical mechanics (shout-out to the Boltzmann Brains)
 
 I'm *relatively* new to GitHub and still building a portfolio of interesting projects. Please have a look around!
