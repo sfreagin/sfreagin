@@ -24,4 +24,4 @@ I'm currently exploring:
 
 My education background is **Applied Math** and **Physics**, including quantum and statistical mechanics (shout-out to the Boltzmann Brains). I also have professional experience in HR and Executive & Equity Compensation roles.
 
-I'm hoping to fill my portfolio with interesting projects. Please have a look around!
+Thanks for visiting! Please have a look around.
